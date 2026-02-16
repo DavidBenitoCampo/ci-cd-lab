@@ -22,7 +22,7 @@ A simple Node.js application designed for learning and demonstrating Continuous 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DavidBenitoCampo/ci-cd-lab.git
    cd ci-cd-lab
    ```
 
