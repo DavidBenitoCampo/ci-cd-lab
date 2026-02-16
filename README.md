@@ -1,6 +1,6 @@
 # CI/CD Lab
 
-A simple Node.js application designed for learning and demonstrating Continuous Integration and Continuous Deployment (CI/CD) pipelines. This project uses Express.js for the API, Docker for containerization, and GitHub Actions for automation.
+A simple Node.js application designed for demonstrating Continuous Integration and Continuous Deployment (CI/CD) pipelines. This project uses Express.js for the API, Docker for containerization, and GitHub Actions for automation.
 
 ## Features
 
